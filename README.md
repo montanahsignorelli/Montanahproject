@@ -76,7 +76,6 @@ Click the Run button (the triangle icon), and you should see the Processing wind
 
 ###### USAGE:
 
-Global variable to keep track of the current screen
 current_screen = "welcome"
 
 def setup():
